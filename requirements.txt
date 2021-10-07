@@ -1,0 +1,43 @@
+# packages in environment at /opt/anaconda3/envs/content_project01_env:
+#
+# Name                    Version                   Build  Channel
+asgiref                   3.4.1              pyhd3eb1b0_0  
+brotlipy                  0.7.0           py38h96a0964_1001    conda-forge
+ca-certificates           2021.5.30            h033912b_0    conda-forge
+certifi                   2021.5.30        py38h50d1736_0    conda-forge
+cffi                      1.14.6           py38h9688ba1_0    conda-forge
+chardet                   4.0.0            py38h50d1736_1    conda-forge
+charset-normalizer        2.0.0              pyhd8ed1ab_0    conda-forge
+cryptography              3.4.7            py38h1fa4640_0    conda-forge
+django                    3.2.4              pyhd3eb1b0_0  
+idna                      3.1                pyhd3deb0d_0    conda-forge
+krb5                      1.19.2               hcd88c3b_0  
+libcxx                    12.0.0               h2f01273_0  
+libedit                   3.1.20210714         h9ed2024_0  
+libffi                    3.3                  hb1e8313_2  
+libpq                     12.2                 h1b4eb34_1  
+mysql-connector-c         6.1.11               hccea1a4_1  
+mysqlclient               2.0.3            py38h23ab428_1  
+ncurses                   6.2                  h0a44026_1  
+openssl                   1.1.1l               h0d85af4_0    conda-forge
+pip                       21.0.1           py38hecd8cb5_0  
+psycopg2                  2.8.6            py38hbcfaee0_1  
+pycparser                 2.20               pyh9f0ad1d_2    conda-forge
+pyopenssl                 20.0.1             pyhd8ed1ab_0    conda-forge
+pysocks                   1.7.1            py38h50d1736_3    conda-forge
+python                    3.8.11               h88f2d9e_1  
+python-decouple           3.4                pyhd3deb0d_0    conda-forge
+python_abi                3.8                      2_cp38    conda-forge
+pytz                      2021.1             pyhd3eb1b0_0  
+readline                  8.1                  h9ed2024_0  
+requests                  2.26.0             pyhd8ed1ab_0    conda-forge
+setuptools                58.0.4           py38hecd8cb5_0  
+six                       1.16.0             pyh6c4a22f_0    conda-forge
+sqlite                    3.36.0               hce871da_0  
+sqlparse                  0.4.1                      py_0  
+tk                        8.6.11               h7bc2e8c_0  
+typing_extensions         3.10.0.2           pyh06a4308_0  
+urllib3                   1.26.7             pyhd8ed1ab_0    conda-forge
+wheel                     0.37.0             pyhd3eb1b0_1  
+xz                        5.2.5                h1de35cc_0  
+zlib                      1.2.11               h1de35cc_3  
